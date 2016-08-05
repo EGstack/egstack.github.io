@@ -1,0 +1,9 @@
+---
+layout: post
+title: second!!
+date: 2016-07-31
+---
+
+A second page again. and on to the [third!!](http://localhost:4000/2016/07/31/third!!!)
+most things have worked ok now lets try a pic
+![saturn V](/img/IMG_0008.jpg)
